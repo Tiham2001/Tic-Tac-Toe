@@ -35,6 +35,7 @@ low value for the board if minimizer‘s turn
 
 CONCLUSION: The tic tac toe bot aptly responds to the user’s inputs and maintains a perfect game resulting in
 either a draw or a win for the bot in every game scenario using the minimax algorithm and Evaluation function.
+
 REFERENCE:
 • https://www.geeksforgeeks.org/
 • https://cs.stackexchange.com/
